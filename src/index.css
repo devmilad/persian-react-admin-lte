@@ -1,0 +1,11 @@
+@font-face {
+    font-family: IRANSansX;
+    src: url('./fonts/IRANSansX-Regular.html');
+    src: url('./fonts/IRANSansX-Regulard41d.eot?#iefix') format('embedded-opentype'),
+    url('./fonts/IRANSansX-Regular.woff') format('woff'),
+    url('./fonts/IRANSansX-Regular.ttf') format('truetype');
+    font-weight: normal;
+}
+body{
+    font-family: IRANSansX;
+}
